@@ -61,3 +61,12 @@ This is a simple Java project to help get myself familiar with the language agai
     - Provide clear documentation on how to use the feed reader, including setup instructions and troubleshooting tips.
 
 Remember to start with a basic version and gradually add features to make the project more manageable. This way, you can focus on one aspect at a time and see the incremental progress of your RSS Feed Reader.
+
+
+### Useful Links for Project
+
+- https://www.w3schools.com/java/default.asp
+- https://docs.oracle.com/en/java/javase/21/
+- https://docs.oracle.com/en/java/javase/21/docs/api/index.html
+- https://www.rssboard.org/rss-specification
+- https://www.rssboard.org/files/sample-rss-2.xml
