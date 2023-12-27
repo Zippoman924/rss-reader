@@ -1,4 +1,4 @@
-package src;
+package com.zippoman924;
 
 import javax.swing.*;
 import java.awt.Dimension;
